@@ -126,7 +126,7 @@ if __name__ == "__main__":
     # setting header, description and citation
     st.set_page_config(page_title="Molecule icons")
     st.header('''
-    Molecule Icon Generator!
+    Molecule Icon Generator by mouraisa!
     ''')
     st.write('''
     Generate icons of molecules from SMILES, Name, Cas-number, Inchi, InChIKey, load your molecule file or convert a
