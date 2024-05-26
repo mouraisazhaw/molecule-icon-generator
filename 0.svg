@@ -1,88 +1,88 @@
-<svg id="molecule_icon" viewBox="-1173.2996164924273 -1173.2996164924273 2346.5992329848546 2346.5992329848546" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg id="molecule_icon" viewBox="-752.4413816937533 -752.4413816937533 1504.8827633875067 1504.8827633875067" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<defs>
-		<g id="H">
-			<circle cx="0" cy="0" r="100.0" fill="#FFFFFF" stroke="#555555" stroke-width="10.0" />
-			<path d="M70,-70 A90.0,90.0 0, 1, 1 -70,70 M-70,70 A120.0,120.0 0, 0,0 70, -70 Z" fill="#555555" stroke-width="0" />
-		</g>
-		<g id="N">
-			<circle cx="0" cy="0" r="100.0" fill="#3050F8" stroke="#101a52" stroke-width="10.0" />
-			<path d="M70,-70 A90.0,90.0 0, 1, 1 -70,70 M-70,70 A120.0,120.0 0, 0,0 70, -70 Z" fill="#101a52" stroke-width="0" />
-		</g>
 		<g id="C">
-			<circle cx="0" cy="0" r="100.0" fill="#909090" stroke="#303030" stroke-width="10.0" />
-			<path d="M70,-70 A90.0,90.0 0, 1, 1 -70,70 M-70,70 A120.0,120.0 0, 0,0 70, -70 Z" fill="#303030" stroke-width="0" />
+			<circle cx="0" cy="0" r="100.0" fill="#000000" stroke="#000000" stroke-width="10.0" />
+			<path d="M70,-70 A90.0,90.0 0, 1, 1 -70,70 M-70,70 A120.0,120.0 0, 0,0 70, -70 Z" fill="#000000" stroke-width="0" />
 		</g>
 		<g id="O">
-			<circle cx="0" cy="0" r="100.0" fill="#FF0D0D" stroke="#540404" stroke-width="10.0" />
-			<path d="M70,-70 A90.0,90.0 0, 1, 1 -70,70 M-70,70 A120.0,120.0 0, 0,0 70, -70 Z" fill="#540404" stroke-width="0" />
+			<circle cx="0" cy="0" r="100.0" fill="#000000" stroke="#000000" stroke-width="10.0" />
+			<path d="M70,-70 A90.0,90.0 0, 1, 1 -70,70 M-70,70 A120.0,120.0 0, 0,0 70, -70 Z" fill="#000000" stroke-width="0" />
+		</g>
+		<g id="N">
+			<circle cx="0" cy="0" r="100.0" fill="#000000" stroke="#000000" stroke-width="10.0" />
+			<path d="M70,-70 A90.0,90.0 0, 1, 1 -70,70 M-70,70 A120.0,120.0 0, 0,0 70, -70 Z" fill="#000000" stroke-width="0" />
+		</g>
+		<g id="H">
+			<circle cx="0" cy="0" r="100.0" fill="#000000" stroke="#000000" stroke-width="10.0" />
+			<path d="M70,-70 A90.0,90.0 0, 1, 1 -70,70 M-70,70 A120.0,120.0 0, 0,0 70, -70 Z" fill="#000000" stroke-width="0" />
 		</g>
 	</defs>
-	<line stroke="#323232" stroke-linecap="round" stroke-width="45.0" x1="-755.0385065767193" y1="-72.25476622718278" x2="-759.7097859088475" y2="-84.11875993346922" />
-	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="-755.0385065767193" y1="-72.25476622718278" x2="-759.7097859088475" y2="-84.11875993346922" />
-	<use href="#H" xlink:href="#H" transform="translate(-759.7097859088475 -84.11875993346922)" />
-	<line stroke="#323232" stroke-linecap="round" stroke-width="45.0" x1="-251.59645800922763" y1="-119.25679737362364" x2="-284.9935474468972" y2="-283.17165117138006" />
-	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="-251.59645800922763" y1="-119.25679737362364" x2="-284.9935474468972" y2="-283.17165117138006" />
-	<use href="#H" xlink:href="#H" transform="translate(-284.9935474468972 -283.17165117138006)" />
-	<line stroke="#323232" stroke-linecap="round" stroke-width="45.0" x1="225.7170992804196" y1="-229.31478598258903" x2="178.66410235243023" y2="-435.3923347820662" />
-	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="225.7170992804196" y1="-229.31478598258903" x2="178.66410235243023" y2="-435.3923347820662" />
-	<use href="#H" xlink:href="#H" transform="translate(178.66410235243023 -435.3923347820662)" />
-	<line stroke="#323232" stroke-linecap="round" stroke-width="45.0" x1="-479.482525967102" y1="-3.0242572326502684" x2="-251.59645800922763" y2="-119.25679737362364" />
-	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="-479.482525967102" y1="-3.0242572326502684" x2="-251.59645800922763" y2="-119.25679737362364" />
-	<line stroke="#323232" stroke-linecap="round" stroke-width="45.0" x1="-251.59645800922763" y1="-119.25679737362364" x2="20.412738572450532" y2="-39.104767713207735" />
-	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="-251.59645800922763" y1="-119.25679737362364" x2="20.412738572450532" y2="-39.104767713207735" />
-	<use href="#N" xlink:href="#N" transform="translate(-251.59645800922763 -119.25679737362364)" />
-	<line stroke="#323232" stroke-linecap="round" stroke-width="45.0" x1="501.2402592462155" y1="-191.62481597431074" x2="234.7170992804196" y2="-265.314785982589" />
-	<line stroke="#323232" stroke-linecap="round" stroke-width="45.0" x1="483.2402592462155" y1="-119.62481597431074" x2="216.7170992804196" y2="-193.31478598258903" />
-	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="501.2402592462155" y1="-191.62481597431074" x2="234.7170992804196" y2="-265.314785982589" />
-	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="483.2402592462155" y1="-119.62481597431074" x2="216.7170992804196" y2="-193.31478598258903" />
-	<line stroke="#323232" stroke-linecap="round" stroke-width="45.0" x1="225.7170992804196" y1="-229.31478598258903" x2="20.412738572450532" y2="-39.104767713207735" />
-	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="225.7170992804196" y1="-229.31478598258903" x2="20.412738572450532" y2="-39.104767713207735" />
-	<use href="#C" xlink:href="#C" transform="translate(225.7170992804196 -229.31478598258903)" />
-	<line stroke="#323232" stroke-linecap="round" stroke-width="45.0" x1="-755.0385065767193" y1="-72.25476622718278" x2="-479.482525967102" y2="-3.0242572326502684" />
-	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="-755.0385065767193" y1="-72.25476622718278" x2="-479.482525967102" y2="-3.0242572326502684" />
-	<line stroke="#323232" stroke-linecap="round" stroke-width="45.0" x1="-755.0385065767193" y1="-72.25476622718278" x2="-814.3671513048367" y2="-268.5069833150382" />
-	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="-755.0385065767193" y1="-72.25476622718278" x2="-814.3671513048367" y2="-268.5069833150382" />
-	<line stroke="#323232" stroke-linecap="round" stroke-width="45.0" x1="-755.0385065767193" y1="-72.25476622718278" x2="-899.9024195482232" y2="82.68934042595917" />
-	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="-755.0385065767193" y1="-72.25476622718278" x2="-899.9024195482232" y2="82.68934042595917" />
-	<use href="#C" xlink:href="#C" transform="translate(-755.0385065767193 -72.25476622718278)" />
-	<line stroke="#323232" stroke-linecap="round" stroke-width="45.0" x1="-15.587261427549468" y1="-30.104767713207735" x2="51.10677576029802" y2="237.39607282374166" />
-	<line stroke="#323232" stroke-linecap="round" stroke-width="45.0" x1="56.412738572450536" y1="-48.104767713207735" x2="123.10677576029802" y2="219.39607282374166" />
-	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="-15.587261427549468" y1="-30.104767713207735" x2="51.10677576029802" y2="237.39607282374166" />
-	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="56.412738572450536" y1="-48.104767713207735" x2="123.10677576029802" y2="219.39607282374166" />
-	<use href="#C" xlink:href="#C" transform="translate(20.412738572450532 -39.104767713207735)" />
-	<line stroke="#323232" stroke-linecap="round" stroke-width="45.0" x1="492.2402592462155" y1="-155.62481597431074" x2="648.192144593642" y2="-305.0372630902169" />
-	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="492.2402592462155" y1="-155.62481597431074" x2="648.192144593642" y2="-305.0372630902169" />
-	<use href="#H" xlink:href="#H" transform="translate(648.192144593642 -305.0372630902169)" />
-	<line stroke="#323232" stroke-linecap="round" stroke-width="45.0" x1="556.8902329264577" y1="110.19931262979799" x2="492.2402592462155" y2="-155.62481597431074" />
-	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="556.8902329264577" y1="110.19931262979799" x2="492.2402592462155" y2="-155.62481597431074" />
-	<use href="#C" xlink:href="#C" transform="translate(492.2402592462155 -155.62481597431074)" />
-	<use href="#H" xlink:href="#H" transform="translate(-899.9024195482232 82.68934042595917)" />
-	<line stroke="#323232" stroke-linecap="round" stroke-width="45.0" x1="87.10677576029802" y1="228.39607282374166" x2="353.84921011561084" y2="301.6758543194938" />
-	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="87.10677576029802" y1="228.39607282374166" x2="353.84921011561084" y2="301.6758543194938" />
-	<line stroke="#323232" stroke-linecap="round" stroke-width="45.0" x1="87.10677576029802" y1="228.39607282374166" x2="-65.37275864574939" y2="381.6709357365746" />
-	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="87.10677576029802" y1="228.39607282374166" x2="-65.37275864574939" y2="381.6709357365746" />
-	<use href="#C" xlink:href="#C" transform="translate(87.10677576029802 228.39607282374166)" />
-	<use href="#H" xlink:href="#H" transform="translate(-65.37275864574939 381.6709357365746)" />
-	<use href="#H" xlink:href="#H" transform="translate(-814.3671513048367 -268.5069833150382)" />
-	<line stroke="#323232" stroke-linecap="round" stroke-width="45.0" x1="378.84921011561084" y1="328.6758543194938" x2="581.8902329264577" y2="137.199312629798" />
-	<line stroke="#323232" stroke-linecap="round" stroke-width="45.0" x1="328.84921011561084" y1="274.6758543194938" x2="531.8902329264577" y2="83.19931262979799" />
-	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="378.84921011561084" y1="328.6758543194938" x2="581.8902329264577" y2="137.199312629798" />
-	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="328.84921011561084" y1="274.6758543194938" x2="531.8902329264577" y2="83.19931262979799" />
-	<line stroke="#323232" stroke-linecap="round" stroke-width="45.0" x1="556.8902329264577" y1="110.19931262979799" x2="821.6571700017845" y2="186.08414224390185" />
-	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="556.8902329264577" y1="110.19931262979799" x2="821.6571700017845" y2="186.08414224390185" />
-	<use href="#C" xlink:href="#C" transform="translate(556.8902329264577 110.19931262979799)" />
-	<line stroke="#323232" stroke-linecap="round" stroke-width="45.0" x1="-515.482525967102" y1="3.9757427673497316" x2="-486.5686218400552" y2="151.02244107593455" />
-	<line stroke="#323232" stroke-linecap="round" stroke-width="45.0" x1="-443.482525967102" y1="-10.024257232650267" x2="-414.5686218400552" y2="137.02244107593455" />
-	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="-515.482525967102" y1="3.9757427673497316" x2="-486.5686218400552" y2="151.02244107593455" />
-	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="-443.482525967102" y1="-10.024257232650267" x2="-414.5686218400552" y2="137.02244107593455" />
-	<use href="#C" xlink:href="#C" transform="translate(-479.482525967102 -3.0242572326502684)" />
-	<line stroke="#323232" stroke-linecap="round" stroke-width="45.0" x1="353.84921011561084" y1="301.6758543194938" x2="403.0024259059164" y2="507.94704128680166" />
-	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="353.84921011561084" y1="301.6758543194938" x2="403.0024259059164" y2="507.94704128680166" />
-	<use href="#C" xlink:href="#C" transform="translate(353.84921011561084 301.6758543194938)" />
-	<line stroke="#323232" stroke-linecap="round" stroke-width="45.0" x1="821.6571700017845" y1="186.08414224390185" x2="973.2996164924273" y2="52.122042253442366" />
-	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="821.6571700017845" y1="186.08414224390185" x2="973.2996164924273" y2="52.122042253442366" />
-	<use href="#H" xlink:href="#H" transform="translate(973.2996164924273 52.122042253442366)" />
-	<use href="#O" xlink:href="#O" transform="translate(821.6571700017845 186.08414224390185)" />
-	<use href="#H" xlink:href="#H" transform="translate(403.0024259059164 507.94704128680166)" />
-	<use href="#O" xlink:href="#O" transform="translate(-450.5686218400552 144.02244107593455)" />
+	<line stroke="#131313" stroke-linecap="round" stroke-width="45.0" x1="-417.0645835980502" y1="143.3242925158414" x2="-282.24938645449555" y2="64.82509001645174" />
+	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="-417.0645835980502" y1="143.3242925158414" x2="-282.24938645449555" y2="64.82509001645174" />
+	<line stroke="#131313" stroke-linecap="round" stroke-width="45.0" x1="-417.0645835980502" y1="143.3242925158414" x2="-338.56537217226895" y2="278.1394896593961" />
+	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="-417.0645835980502" y1="143.3242925158414" x2="-338.56537217226895" y2="278.1394896593961" />
+	<line stroke="#131313" stroke-linecap="round" stroke-width="45.0" x1="-417.0645835980502" y1="143.3242925158414" x2="-494.56537217226895" y2="278.70109061154454" />
+	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="-417.0645835980502" y1="143.3242925158414" x2="-494.56537217226895" y2="278.70109061154454" />
+	<line stroke="#131313" stroke-linecap="round" stroke-width="45.0" x1="-417.0645835980502" y1="143.3242925158414" x2="-552.4413816937533" y2="65.79228983792392" />
+	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="-417.0645835980502" y1="143.3242925158414" x2="-552.4413816937533" y2="65.79228983792392" />
+	<use href="#C" xlink:href="#C" transform="translate(-417.0645835980502 143.3242925158414)" />
+	<line stroke="#131313" stroke-linecap="round" stroke-width="45.0" x1="-245.24938645449555" y1="64.82509001645174" x2="-245.81098740664396" y2="-91.17490700808438" />
+	<line stroke="#131313" stroke-linecap="round" stroke-width="45.0" x1="-319.24938645449555" y1="64.82509001645174" x2="-319.81098740664396" y2="-91.17490700808438" />
+	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="-245.24938645449555" y1="64.82509001645174" x2="-245.81098740664396" y2="-91.17490700808438" />
+	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="-319.24938645449555" y1="64.82509001645174" x2="-319.81098740664396" y2="-91.17490700808438" />
+	<line stroke="#131313" stroke-linecap="round" stroke-width="45.0" x1="-282.24938645449555" y1="64.82509001645174" x2="-146.8725764569369" y2="142.35708823117344" />
+	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="-282.24938645449555" y1="64.82509001645174" x2="-146.8725764569369" y2="142.35708823117344" />
+	<use href="#C" xlink:href="#C" transform="translate(-282.24938645449555 64.82509001645174)" />
+	<use href="#O" xlink:href="#O" transform="translate(-282.81098740664396 -91.17490700808438)" />
+	<line stroke="#131313" stroke-linecap="round" stroke-width="45.0" x1="-146.8725764569369" y1="142.35708823117344" x2="-12.05738228884611" y2="63.857890194979575" />
+	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="-146.8725764569369" y1="142.35708823117344" x2="-12.05738228884611" y2="63.857890194979575" />
+	<line stroke="#131313" stroke-linecap="round" stroke-width="45.0" x1="-146.8725764569369" y1="142.35708823117344" x2="-146.31098740664396" y2="298.32589346798983" />
+	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="-146.8725764569369" y1="142.35708823117344" x2="-146.31098740664396" y2="298.32589346798983" />
+	<use href="#N" xlink:href="#N" transform="translate(-146.8725764569369 142.35708823117344)" />
+	<line stroke="#131313" stroke-linecap="round" stroke-width="45.0" x1="-12.587781039151288" y1="-92.14211129275236" x2="-12.05738228884611" y2="63.857890194979575" />
+	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="-12.587781039151288" y1="-92.14211129275236" x2="-12.05738228884611" y2="63.857890194979575" />
+	<line stroke="#131313" stroke-linecap="round" stroke-width="45.0" x1="-30.05738228884611" y1="95.85789019497957" x2="105.31941878232088" y2="173.3898898974332" />
+	<line stroke="#131313" stroke-linecap="round" stroke-width="45.0" x1="5.94261771115389" y1="31.857890194979575" x2="141.3194187823209" y2="109.38988989743319" />
+	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="-30.05738228884611" y1="95.85789019497957" x2="105.31941878232088" y2="173.3898898974332" />
+	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="5.94261771115389" y1="31.857890194979575" x2="141.3194187823209" y2="109.38988989743319" />
+	<use href="#C" xlink:href="#C" transform="translate(-12.05738228884611 63.857890194979575)" />
+	<line stroke="#131313" stroke-linecap="round" stroke-width="45.0" x1="123.31941878232088" y1="141.3898898974332" x2="258.13462782773104" y2="62.89069037350741" />
+	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="123.31941878232088" y1="141.3898898974332" x2="258.13462782773104" y2="62.89069037350741" />
+	<line stroke="#131313" stroke-linecap="round" stroke-width="45.0" x1="123.31941878232088" y1="141.3898898974332" x2="123.88101973446932" y2="297.35870108517736" />
+	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="123.31941878232088" y1="141.3898898974332" x2="123.88101973446932" y2="297.35870108517736" />
+	<use href="#C" xlink:href="#C" transform="translate(123.31941878232088 141.3898898974332)" />
+	<line stroke="#131313" stroke-linecap="round" stroke-width="45.0" x1="258.13462782773104" y1="62.89069037350741" x2="393.5426087847623" y2="140.39149084958163" />
+	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="258.13462782773104" y1="62.89069037350741" x2="393.5426087847623" y2="140.39149084958163" />
+	<line stroke="#131313" stroke-linecap="round" stroke-width="45.0" x1="295.13462782773104" y1="62.89069037350741" x2="294.6042097369107" y2="-93.10931557742033" />
+	<line stroke="#131313" stroke-linecap="round" stroke-width="45.0" x1="221.13462782773104" y1="62.89069037350741" x2="220.60420973691072" y2="-93.10931557742033" />
+	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="295.13462782773104" y1="62.89069037350741" x2="294.6042097369107" y2="-93.10931557742033" />
+	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="221.13462782773104" y1="62.89069037350741" x2="220.60420973691072" y2="-93.10931557742033" />
+	<use href="#C" xlink:href="#C" transform="translate(258.13462782773104 62.89069037350741)" />
+	<line stroke="#131313" stroke-linecap="round" stroke-width="45.0" x1="257.6042097369107" y1="-93.10931557742033" x2="392.38822401913734" y2="-171.57730843630705" />
+	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="257.6042097369107" y1="-93.10931557742033" x2="392.38822401913734" y2="-171.57730843630705" />
+	<line stroke="#131313" stroke-linecap="round" stroke-width="45.0" x1="257.6042097369107" y1="-93.10931557742033" x2="122.196216878024" y2="-170.64129891482267" />
+	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="257.6042097369107" y1="-93.10931557742033" x2="122.196216878024" y2="-170.64129891482267" />
+	<use href="#C" xlink:href="#C" transform="translate(257.6042097369107 -93.10931557742033)" />
+	<line stroke="#131313" stroke-linecap="round" stroke-width="45.0" x1="104.196216878024" y1="-202.64129891482267" x2="-30.587781039151288" y2="-124.14211129275236" />
+	<line stroke="#131313" stroke-linecap="round" stroke-width="45.0" x1="140.19621687802402" y1="-138.64129891482267" x2="5.412218960848712" y2="-60.14211129275236" />
+	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="104.196216878024" y1="-202.64129891482267" x2="-30.587781039151288" y2="-124.14211129275236" />
+	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="140.19621687802402" y1="-138.64129891482267" x2="5.412218960848712" y2="-60.14211129275236" />
+	<line stroke="#131313" stroke-linecap="round" stroke-width="45.0" x1="122.196216878024" y1="-170.64129891482267" x2="121.63461592587556" y2="-326.61011605349455" />
+	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="122.196216878024" y1="-170.64129891482267" x2="121.63461592587556" y2="-326.61011605349455" />
+	<use href="#C" xlink:href="#C" transform="translate(122.196216878024 -170.64129891482267)" />
+	<line stroke="#131313" stroke-linecap="round" stroke-width="45.0" x1="-12.587781039151288" y1="-92.14211129275236" x2="-147.9957783612338" y2="-169.6428998669711" />
+	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="-12.587781039151288" y1="-92.14211129275236" x2="-147.9957783612338" y2="-169.6428998669711" />
+	<use href="#C" xlink:href="#C" transform="translate(-12.587781039151288 -92.14211129275236)" />
+	<line stroke="#131313" stroke-linecap="round" stroke-width="45.0" x1="392.38822401913734" y1="-171.57730843630705" x2="391.8266230669889" y2="-327.5773084363071" />
+	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="392.38822401913734" y1="-171.57730843630705" x2="391.8266230669889" y2="-327.5773084363071" />
+	<use href="#O" xlink:href="#O" transform="translate(392.38822401913734 -171.57730843630705)" />
+	<use href="#H" xlink:href="#H" transform="translate(-338.56537217226895 278.1394896593961)" />
+	<use href="#H" xlink:href="#H" transform="translate(-494.56537217226895 278.70109061154454)" />
+	<use href="#H" xlink:href="#H" transform="translate(-552.4413816937533 65.79228983792392)" />
+	<use href="#H" xlink:href="#H" transform="translate(-146.31098740664396 298.32589346798983)" />
+	<use href="#H" xlink:href="#H" transform="translate(123.88101973446932 297.35870108517736)" />
+	<use href="#H" xlink:href="#H" transform="translate(393.5426087847623 140.39149084958163)" />
+	<use href="#H" xlink:href="#H" transform="translate(121.63461592587556 -326.61011605349455)" />
+	<use href="#H" xlink:href="#H" transform="translate(-147.9957783612338 -169.6428998669711)" />
+	<use href="#H" xlink:href="#H" transform="translate(391.8266230669889 -327.5773084363071)" />
 </svg>
